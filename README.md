@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya Soni</h1>
-<h3 align="center">A passionate Software Product Manager from India</h3>
+<h3 align="center">A Passionate Software Product Manager from India</h3>
 <h3 align="center" color ="red">I am a man of value</h3>
 
 - 📄 Visit my website [----------](----------)
